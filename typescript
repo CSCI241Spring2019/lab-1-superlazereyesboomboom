@@ -1,0 +1,587 @@
+Script started on Thu 11 Apr 2019 11:57:10 AM PDT
+phelpsm4@CF165-01:~$ mkduir[K[K[Kir csci241
+phelpsm4@CF165-01:~$ cd csci241
+phelpsm4@CF165-01:~/csci241$ ls
+phelpsm4@CF165-01:~/csci241$ https://github.com/CSCI241Spring2019/lab-1-superlaz ereyesboomboom.git[K[Aphelpsm4@CF165-01:~/csci241$ https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.gitghttps://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cihttps://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cthttps://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cchttps://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clhttps://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cohttps://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnhttps://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cehttps://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Cloning into 'lab-1-superlazereyesboomboom'...
+remote: Enumerating objects: 8, done.[K
+remote: Counting objects:  12% (1/8)   [Kremote: Counting objects:  25% (2/8)   [Kremote: Counting objects:  37% (3/8)   [Kremote: Counting objects:  50% (4/8)   [Kremote: Counting objects:  62% (5/8)   [Kremote: Counting objects:  75% (6/8)   [Kremote: Counting objects:  87% (7/8)   [Kremote: Counting objects: 100% (8/8)   [Kremote: Counting objects: 100% (8/8), done.[K
+remote: Compressing objects:  25% (1/4)   [Kremote: Compressing objects:  50% (2/4)   [Kremote: Compressing objects:  75% (3/4)   [Kremote: Compressing objects: 100% (4/4)   [Kremote: Compressing objects: 100% (4/4), done.[K
+remote: Total 8 (delta 0), reused 8 (delta 0), pack-reused 0[K
+Unpacking objects:  12% (1/8)   Unpacking objects:  25% (2/8)   Unpacking objects:  37% (3/8)   Unpacking objects:  50% (4/8)   Unpacking objects:  62% (5/8)   Unpacking objects:  75% (6/8)   Unpacking objects:  87% (7/8)   Unpacking objects: 100% (8/8)   Unpacking objects: 100% (8/8), done.
+Checking connectivity... done.
+phelpsm4@CF165-01:~/csci241$ git config --globsa[K[Kal user.anem[K[K[K[Kname "Micah PHelp[K[K[K[Khelps"
+phelpsm4@CF165-01:~/csci241$ git config --gloabal[K[K[K[Kbal user.email phelpsm4@wwu.,[Kedu
+phelpsm4@CF165-01:~/csci241$ touvch[K[K[Kch writeup.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd lab-1`[K-<username>
+bash: syntax error near unexpected token `newline'
+phelpsm4@CF165-01:~/csci241$ cd lab-1-<[ph[K[K[Kphelpsm4>
+bash: syntax error near unexpected token `newline'
+phelpsm4@CF165-01:~/csci241$ cs[Kd lab-1-1phelps[K[K[K[K[K[K[Kphelpsm4
+bash: cd: lab-1-phelpsm4: No such file or directory
+phelpsm4@CF165-01:~/csci241$ cd lab-1-1[Kusername[K[K[Kame
+bash: cd: lab-1-username: No such file or directory
+phelpsm4@CF165-01:~/csci241$ cd lab-1-Micah Phelps
+bash: cd: lab-1-Micah: No such file or directory
+phelpsm4@CF165-01:~/csci241$ ls
+lab-1-superlazereyesboomboom
+phelpsm4@CF165-01:~/csci241$ cd lab-1-1superlazereyesboomboom[C[1P1superlazereyesboomboom[1Psuperlazereyesboomboom-1superlazereyesboomboom[1P1superlazereyesboomboom[C-superlazereyesboomboom[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ touch writeup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git ad writeupo[K.txt[Cd writeup.txt[C[C[C[C[C[C[C[C[C[C[C[C[C
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m "Added empy[Kty writeup"
+[master 41a1d2a] Added empty writeup
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 writeup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git puis[K[Ksh
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': superlazereyesboomboom
+Password for 'https://superlazereyesboomboom@github.com': 
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 319 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git
+   1523c09..41a1d2a  master -> master
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git add writeupo[K.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m "Added part 1 (names) to writeup"
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git add writeup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ [Kphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m "added p art 1 (names) to writeup"
+[master 0f1fdf8] added part 1 (names) to writeup
+ 1 file changed, 1 insertion(+)
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git add writeup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -,[Km[Kphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m "added part 1 (names [K) to writeup"
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': superlazereyesboombom
+Password for 'https://superlazereyesboombom@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git/'
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': superlazereyesboombok om
+Password for 'https://superlazereyesboomboom@github.com': 
+To https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ [Kphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$  ls
+build.gradle  src  writeup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ cd csci241
+bash: cd: csci241: No such file or directory
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ [Kphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git add wi[Kriteup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ get[K[Kit commit -m "ad[K[KAdded p art 1 (names) to wru[Kiteup"[K[Aphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m "Added part 1 (names) to writeup"
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ [Kphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   writeup.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git add writeup.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kwwwwwwwwwwww[K[K[K[K[K[K[K[K[K[K[K[Kadd writeup.txt 
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git stats[Kus
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   writeup.txt[m
+
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -mm[K "Added p art 1 (names) to w[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ktouch username.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ commit[K[K[K[K[K[Kgit add username.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ get commit -m "a[KAdded p art[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K q uestion[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K q uestion 13"
+No command 'get' found, but there are 18 similar ones
+get: command not found
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git coo[Kmmit -m "added q uestion 13"
+[master 7c218d1] added question 13
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 username.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git checkout
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git resi[Ket
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git rm
+usage: git rm [<options>] [--] <file>...
+
+    -n, --dry-run         dry run
+    -q, --quiet           do not list removed files
+    --cached              only remove from the index
+    -f, --force           override the up-to-date check
+    -r                    allow recursive removal
+    --ignore-unmatch      exit with a zero status even if nothing matched
+
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git mv
+usage: git mv [<options>] <source>... <destination>
+
+    -v, --verbose         be verbose
+    -n, --dry-run         dry run
+    -f, --force           force move/rename even if target exists
+    -k                    skip move/rename errors
+
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git blame
+usage: git blame [<options>] [<rev-opts>] [<rev>] [--] <file>
+
+    <rev-opts> are documented in git-rev-list(1)
+
+    --incremental         Show blame entries as we find them, incrementally
+    -b                    Show blank SHA-1 for boundary commits (Default: off)
+    --root                Do not treat root commits as boundaries (Default: off)
+    --show-stats          Show work cost statistics
+    --score-debug         Show output score for blame entries
+    -f, --show-name       Show original filename (Default: auto)
+    -n, --show-number     Show original linenumber (Default: off)
+    -p, --porcelain       Show in a format designed for machine consumption
+    --line-porcelain      Show porcelain format with per-line commit information
+    -c                    Use the same output mode as git-annotate (Default: off)
+    -t                    Show raw timestamp (Default: off)
+    -l                    Show long commit SHA1 (Default: off)
+    -s                    Suppress author name and timestamp (Default: off)
+    -e, --show-email      Show author email instead of name (Default: off)
+    -w                    Ignore whitespace differences
+    --minimal             Spend extra cycles to find better match
+    -S <file>             Use revisions from <file> instead of calling git-rev-list
+    --contents <file>     Use <file>'s contents as the final image
+    -C[<score>]           Find line copies within and across files
+    -M[<score>]           Find line movements within and across files
+    -L <n,m>              Process only line range n,m, counting from 1
+    --abbrev[=<n>]        use <n> digits to display SHA-1s
+
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git log
+[?1h=[33mcommit 7c218d1fb251f95651c2d632610eaf18daefbee9[m[m
+Author: Micah Phelps <phelpsm4@wwu.edu>[m
+Date:   Thu Apr 11 12:45:42 2019 -0700[m
+[m
+    added question 13[m
+[m
+[33mcommit 0f1fdf8caef76ed108082dadb398977bb82eeb6e[m[m
+Author: Micah Phelps <phelpsm4@wwu.edu>[m
+Date:   Thu Apr 11 12:33:21 2019 -0700[m
+[m
+    added part 1 (names) to writeup[m
+[m
+[33mcommit 41a1d2ab4e843b1223649775b6c8c73fc85264cb[m[m
+Author: Micah Phelps <phelpsm4@wwu.edu>[m
+Date:   Thu Apr 11 12:18:03 2019 -0700[m
+[m
+    Added empty writeup[m
+[m
+[33mcommit 1523c09e41bb264a6f420fcd78d1a7d6e44a5340[m[m
+Author: majeskn <majeskn@wwu.edu>[m
+Date:   Mon Jan 7 20:49:19 2019 -0800[m
+[m
+    Adding setup for gradle[m
+[K[?1l>phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git diff
+[?1h=[K[?1l>phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git diff
+[?1h=[K[?1l>phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git add writu[Keup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m"[K "questio n 16"
+[master 07f79d8] question 16
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git checkout -b iss5[K[K[K[Kquesti on3[K 3[K[K3
+Switched to a new branch 'question3'
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git checkout masge[K[Kter[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add wi[Kriteup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m "questio n 3"[K[K16
+> git commit -m"questions 16"[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C
+> [K> git add wru[Kiteup.txt
+> git commit -m "question 16
+git commit -m "questions 16"
+git add writeup.txt[A[A[C[C[C[C[C[C[7Padd writeup.txt
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccheckout -b question3[C[C[C[C[C[C[Commit -m "question 16"[C[C[C[C[C[C[8Padd writeup.txt[C[C[C[C[C[Cdiff[K[1Plogdiff[K[K[K[K[K[K[K[K
+> git commit -m "question 16
+git commit -m "questions 16"
+git add writeup.txt
+[A[A[A[C[C[C[C[C[C[7Padd writeup.txt
+[K
+[K
+[K[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccheckout -b question3[C[C[C[C[C[C[Commit -m "question 16"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit commit[K[K[K[K[K[K[K[K[K[Kgit add writeup.txt
+> ^C
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git add write^C
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ ^C
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ ^C
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ ^C
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git add writeup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m "questions 16"
+[question3 cd41960] questions 16
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ get merge[K[K[K[K[K[K[K[Kit merge "ques[K[K[K[K[Kquestion 3[K[K3
+Updating 07f79d8..cd41960
+Fast-forward
+ writeup.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git branch
+* [32mmaster[m
+  question3[m
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ d[Kgit branch/[K=-[K[K -d question3
+Deleted branch question3 (was cd41960).
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git branch
+* [32mmaster[m
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ gradle build
+[0m
+Welcome to Gradle 5.0!
+
+Here are the highlights of this release:
+ - Kotlin DSL 1.0
+ - Task timeouts
+ - Dependency alignment aka BOM support
+ - Interactive `gradle init`
+
+For more details see https://docs.gradle.org/5.0/release-notes.html
+
+Starting a Gradle Daemon (subsequent builds will be faster)
+
+
+[2A[1B[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A> IDLE[0K[6D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[0K[35D[1B[1m> Loading projects[m[0K[18D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[0K[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project > Compiling /home/phelpsm4/csci241/lab-1-superlazereyesboomboom/build.gradle into local compilation cache > Compiling build file '/home/phelpsm4/csci241/lab-1-superlazereyesboomboom/build.[m[203D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[0K[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project > Compiling /home/phelpsm4/csci241/lab-1-superlazereyesboomboom/build.gradle into local compilation cache > Compiling build file '/home/phelpsm4/csci241/lab-1-superlazereyesboomboom/build.[m[203D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[0K[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [1s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [1s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [1s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1m=============[0;39;1m> 100% CONFIGURING [1s][m[37D[1B> IDLE[0K[6D[1B[2A[1m<[0;32;1m=============[0;39;1m> 100% CONFIGURING [1s][m[37D[2B[2A[1m<[0;32;1m=============[0;39;1m> 100% CONFIGURING [1s][m[37D[2B[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [1s][m[0K[33D[2B[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [1s][m[33D[1B[1m> :compileJava[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [1s][m[33D[1B[1m> :compileJava[m[14D[1B[2A[1m<[0;32;1m==[0;39;1m-----------> 21% EXECUTING [1s][m[34D[1B[1m> :jar[m[0K[6D[1B[2A[1m<[0;32;1m===[0;39;1m----------> 28% EXECUTING [2s][m[34D[1B[1m> :startScripts[m[15D[1B[2A[1m<[0;32;1m=====[0;39;1m--------> 42% EXECUTING [2s][m[34D[1B[1m> :distZip[m[0K[10D[1B[2A[0K
+[32;1mBUILD SUCCESSFUL[0;39m in 3s
+5 actionable tasks: 5 executed
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :distZip[m[10D[1B[2A[2K[1B[2K[1A[0mphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ gradle run
+[0m
+
+[2A[1m<[0;32;1m=========[0;39;1m----> 75% EXECUTING [0s][m[34D[1B[1m> :run[m[6D[1B[2A[0K
+[1m> Task :run[m
+Hello World!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+2 actionable tasks: 1 executed, 1 up-to-date
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :run[m[6D[1B[2A[2K[1B[2K[1A[0mphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ [Kphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ ls
+build  build.gradle  src  username.txt	writeup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ cd src/main//java/[K[K[K[K[K[Kjava/lab1/ [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K1
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom/src/main/java/lab1$ ls
+Hello.java
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom/src/main/java/lab1$ jav a Hello.java fast 10
+Error: Could not find or load main class Hello.java
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom/src/main/java/lab1$ cd  ../../../..
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ ls
+build  build.gradle  src  username.txt	writeup.txt
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ grade[Kle run --args="pin kgiraffe"
+[0m
+
+[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [0s][m[33D[1B[1m> :compileJava[m[14D[1B[2A[0K
+[1m> Task :run[m[0K
+pinkgiraffe
+Hello World!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+2 actionable tasks: 2 executed
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[2B[2A[2K[1B[2K[1A[0mphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ gradle run --args="lov ely"
+[0m
+
+[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [0s][m[33D[1B[1m> :compileJava[m[14D[1B[2A[0K
+[1m> Task :run[m[0K
+Hellolovely!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+2 actionable tasks: 2 executed
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :compileJava[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B> IDLE[0K[6D[1B[2A[2K[1B[2K[1A[0mphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ gradle run --args ="lo vely"
+[0m
+
+[2A[1m<[0;32;1m=========[0;39;1m----> 75% EXECUTING [0s][m[34D[1B[1m> :run[m[6D[1B[2A[0K
+[1m> Task :run[m
+Hello =lovely!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+2 actionable tasks: 2 executed
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :run[m[6D[1B[2A[2K[1B[2K[1A[0mphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ gradle ru[K[K[K[K[K[K[K[K[Kgradle run --args ="lovvely"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C="love[1Ply"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[0m
+
+[2A[1m<[0;32;1m=========[0;39;1m----> 75% EXECUTING [0s][m[34D[1B[1m> :run[m[6D[1B[2A[0K
+[1m> Task :run[m
+Hello lovely!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+2 actionable tasks: 1 executed, 1 up-to-date
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :run[m[6D[1B[2A[2K[1B[2K[1A[0mphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git add srs[Kc/main/java/ lavb[K[Kb1/Hello,java[K[K[K[K[K.java
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m "Hello n ow prints command line ae[Krg[K[Aphelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m "Hello now prints command line arg"
+[master f270822] Hello now prints command line arg
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': superlazereyesboomboom
+Password for 'https://superlazereyesboomboom@github.com': 
+To https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': superlazerees  yesboomboom
+Password for 'https://superlazereyesboomboom@github.com': 
+To https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': superlazyereys esboomboom^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D                                               ereyesboomboom
+Password for 'https://superlazereyesboomboom@github.com': 
+To https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git pull
+remote: Enumerating objects: 13, done.[K
+remote: Counting objects:   7% (1/13)   [Kremote: Counting objects:  15% (2/13)   [Kremote: Counting objects:  23% (3/13)   [Kremote: Counting objects:  30% (4/13)   [Kremote: Counting objects:  38% (5/13)   [Kremote: Counting objects:  46% (6/13)   [Kremote: Counting objects:  53% (7/13)   [Kremote: Counting objects:  61% (8/13)   [Kremote: Counting objects:  69% (9/13)   [Kremote: Counting objects:  76% (10/13)   [Kremote: Counting objects:  84% (11/13)   [Kremote: Counting objects:  92% (12/13)   [Kremote: Counting objects: 100% (13/13)   [Kremote: Counting objects: 100% (13/13), done.[K
+remote: Compressing objects:  11% (1/9)   [Kremote: Compressing objects:  22% (2/9)   [Kremote: Compressing objects:  33% (3/9)   [Kremote: Compressing objects:  44% (4/9)   [Kremote: Compressing objects:  55% (5/9)   [Kremote: Compressing objects:  66% (6/9)   [Kremote: Compressing objects:  77% (7/9)   [Kremote: Compressing objects:  88% (8/9)   [Kremote: Compressing objects: 100% (9/9)   [Kremote: Compressing objects: 100% (9/9), done.[K
+remote: Total 11 (delta 3), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:   9% (1/11)   Unpacking objects:  18% (2/11)   Unpacking objects:  27% (3/11)   Unpacking objects:  36% (4/11)   Unpacking objects:  45% (5/11)   Unpacking objects:  54% (6/11)   Unpacking objects:  63% (7/11)   Unpacking objects:  72% (8/11)   Unpacking objects:  81% (9/11)   Unpacking objects:  90% (10/11)   Unpacking objects: 100% (11/11)   Unpacking objects: 100% (11/11), done.
+From https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom
+   41a1d2a..c56c399  master     -> origin/master
+Auto-merging writeup.txt
+CONFLICT (content): Merge conflict in writeup.txt
+Automatic merge failed; fix conflicts and then commit the result.
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git stau[Ktus
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 5 and 5 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+	[31mboth modified:   writeup.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.gradle/[m
+	[31mbuild/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git add writeup.txt 
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git commit -m 'merged p[Kbranch'
+[master 083e377] merged branch
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git [K[K[K[Kgit satus
+git: 'satus' is not a git command. See 'git --help'.
+
+Did you mean this?
+	status
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 6 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.gradle/[m
+	[31mbuild/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': superlazereyesboomboom
+Password for 'https://superlazereyesboomboom@github.com': 
+Counting objects: 22, done.
+Delta compression using up to 8 threads.
+Compressing objects:   5% (1/17)   Compressing objects:  11% (2/17)   Compressing objects:  17% (3/17)   Compressing objects:  23% (4/17)   Compressing objects:  29% (5/17)   Compressing objects:  35% (6/17)   Compressing objects:  41% (7/17)   Compressing objects:  47% (8/17)   Compressing objects:  52% (9/17)   Compressing objects:  58% (10/17)   Compressing objects:  64% (11/17)   Compressing objects:  70% (12/17)   Compressing objects:  76% (13/17)   Compressing objects:  82% (14/17)   Compressing objects:  88% (15/17)   Compressing objects:  94% (16/17)   Compressing objects: 100% (17/17)   Compressing objects: 100% (17/17), done.
+Writing objects:   4% (1/22)   Writing objects:   9% (2/22)   Writing objects:  13% (3/22)   Writing objects:  18% (4/22)   Writing objects:  22% (5/22)   Writing objects:  27% (6/22)   Writing objects:  31% (7/22)   Writing objects:  36% (8/22)   Writing objects:  40% (9/22)   Writing objects:  45% (10/22)   Writing objects:  50% (11/22)   Writing objects:  54% (12/22)   Writing objects:  59% (13/22)   Writing objects:  63% (14/22)   Writing objects:  68% (15/22)   Writing objects:  72% (16/22)   Writing objects:  77% (17/22)   Writing objects:  81% (18/22)   Writing objects:  86% (19/22)   Writing objects:  90% (20/22)   Writing objects:  95% (21/22)   Writing objects: 100% (22/22)   Writing objects: 100% (22/22), 1.89 KiB | 0 bytes/s, done.
+Total 22 (delta 8), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/8)   [Kremote: Resolving deltas:  50% (4/8)   [Kremote: Resolving deltas:  75% (6/8)   [Kremote: Resolving deltas:  87% (7/8)   [Kremote: Resolving deltas: 100% (8/8)   [Kremote: Resolving deltas: 100% (8/8), completed with 2 local objects.[K
+To https://github.com/CSCI241Spring2019/lab-1-superlazereyesboomboom.git
+   c56c399..083e377  master -> master
+phelpsm4@CF165-01:~/csci241/lab-1-superlazereyesboomboom$ exit
+exit
+
+Script done on Thu 11 Apr 2019 01:17:53 PM PDT
