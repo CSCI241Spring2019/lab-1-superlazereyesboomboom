@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 1) Micah Phelps
 2) Hobby: Climbing plastic holds
 3) Favorite song: Rock Bottom (king Krule)
+=======
+
+>>>>>>> c56c3994c524b35b3a752c9e331a42e7ef6af1f4
